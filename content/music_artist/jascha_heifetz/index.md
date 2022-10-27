@@ -1,14 +1,13 @@
 ---
-title: Yossele Rosenblatt
-summary: 'Josef "Yossele" Rosenblatt (May 9, 1882 – June 19, 1933) was a Ukrainian-born chazzan (cantor) and composer. He was regarded as the greatest cantor of his time'
+title: Jascha Heifetz
+summary: ''
 
 date: "2020-12-01T00:00:00Z"
 show_date: false
 show_auhtor: false
 
 tags:
-   - cantor
-   - liturgical
+   - litvak
    
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,11 +20,11 @@ links:
   - icon: spotify
     icon_pack: fab
     name: Listen
-    url: https://open.spotify.com/artist/0hhzBdRkBMLsfLvx9HBqXp
+    url: https://open.spotify.com/artist/7yaBUcdjmqPP2vIv6F5bFD
   - icon: youtube
     icon_pack: fab
     name: Watch
-    url: https://www.youtube.com/channel/UCgXdS9LR_qXufbupVDPZKpg
+    url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,4 +38,4 @@ url_video: ""
 slides: ""
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/artist/0hhzBdRkBMLsfLvx9HBqXp" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7yaBUcdjmqPP2vIv6F5bFD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
