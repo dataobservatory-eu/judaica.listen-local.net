@@ -1,3 +1,7 @@
+# HTML files
+public/
+^public
+
 # History files
 .Rhistory
 .Rapp.history
