@@ -1,6 +1,6 @@
 # HTML files
 public/
-^public
+^public/S
 
 # History files
 .Rhistory
