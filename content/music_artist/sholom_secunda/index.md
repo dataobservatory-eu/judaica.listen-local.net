@@ -1,6 +1,6 @@
 ---
 title: Sholom Secunda
-summary: 'Zevulun "Zavel" Kwartin (Hebrew: זבולון קוורטין; March 25, 1874, Novoarkhanhelsk, Yelisavetgradsky Uyezd, Kherson Governorate, Russian Empire - October 3, 1952, United States) was a Russian-born chazzan (cantor) and composer.'
+summary: 'Sholom Secunda (4 September 1894, Alexandria, Kherson Governorate, Russian Empire – 13 June 1974, New York) was an American composer of Ukrainian-Jewish descent.'
 
 date: "2020-12-01T00:00:00Z"
 show_date: false
@@ -21,11 +21,11 @@ links:
   - icon: spotify
     icon_pack: fab
     name: Listen
-    url: 
-  - icon: youtube
+    url: https://open.spotify.com/artist/02vrqtPq7oaIuwb3huM5Hx
+  - icon: apple
     icon_pack: fab
-    name: Watch
-    url: 
+    name: Listen
+    url: https://music.apple.com/nl/artist/sholom-secunda/276047
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,3 +39,6 @@ url_video: ""
 slides: ""
 ---
 
+Sholom Secunda (4 September 1894, Alexandria, Kherson Governorate, Russian Empire – 13 June 1974, New York) was an American composer of Ukrainian-Jewish descent.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/artist/02vrqtPq7oaIuwb3huM5Hx" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

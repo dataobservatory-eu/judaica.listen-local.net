@@ -11,9 +11,9 @@ authors: ""
 publication_types: ["0"]
 
 # Abstract and optional shortened version.
-abstract: 'Josef "Yossele" Rosenblatt (May 9, 1882 – June 19, 1933) was a Ukrainian-born chazzan (cantor) and composer. He was regarded as the greatest cantor of his time.'
+abstract: 'We define Jewish liturgical music as the the sacred Jewish music, melodic prayers, presented by the Hazzan (cantor) standing on the Bimah in the ceremony of a celebral event or a regular Torah service.'
 
-abstract_short: 'Josef "Yossele" Rosenblatt (May 9, 1882 – June 19, 1933) was a Ukrainian-born chazzan (cantor) and composer. He was regarded as the greatest cantor of his time.'
+abstract_short: 'Sacred Jewish music, melodic prayers, presented by the Hazzan (cantor)'
 
 # Is this a selected publication? (true/false)
 featured: true
@@ -71,14 +71,10 @@ image:
   focal_point: "Smart"
 ---
 
-We define Jewish liturgical music as the the sacred jewish music, melodic prayers, presented by the Hazzan (cantor) standing on the Bimah in the ceremony of a celebral event or a regular Torah service. 
+We define Jewish liturgical music as the the sacred Jewish music, melodic prayers, presented by the Hazzan (cantor) standing on the Bimah in the ceremony of a celebral event or a regular Torah service. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0NQ45jmi3juBqOWezKqbIH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-We included in the dataset actual songs, or melodic sightreading of the torah, using strict musical modes, which have many alterations around the world. The song lyrics often (almost every time) is read from the Torah, often the book of Psalms, and therefore we cannot define a living lyricist. A few communities, however, may sing ancient rabbinic songs. The songs may be accompanied by instrumental music, nowadays often with organ or even string ensembles. While the liturgy and the musical rules of the liturgy are strictly regulated, they have developed significantly since the Babylonian exile, and they progress in slightly different directions in reform communities around the world.  Our Listen Local Judaica Music Artist contains the bibliographical, musicological, and rights management data of performers of Jewish liturgical music or composers, including lyricists, who re-arrange as new authors of such music.  
+We included in the dataset actual songs, or melodic sightreading of the torah, using strict musical modes, which have many alterations around the world. The song lyrics often (almost every time) is read from the Torah, often the book of Psalms, and therefore we cannot define a living lyricist. A few communities, however, may sing ancient rabbinic songs. The songs may be accompanied by instrumental music, nowadays often with organ or even string ensembles. While the liturgy and the musical rules of the liturgy are strictly regulated, they have developed significantly since the Babylonian exile, and they progress in slightly different directions in reform communities around the world.  Our Listen Local [Judaica Music Artists](/#music_artists) contains the bibliographical, musicological, and rights management data of performers of Jewish liturgical music or composers, including lyricists, who re-arrange as new authors of such music.  
 
 Our Listen Local Judaica Music contains recorded fixations (recordings) or audiovisual recordings of such music. Given that many religious practices do not allow the recording of liturgical events, often we will only record the metadata of performances but do not include an actual recording.
-
-
-

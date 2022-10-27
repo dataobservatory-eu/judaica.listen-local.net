@@ -13,7 +13,7 @@ publication_types: ["0"]
 # Abstract and optional shortened version.
 abstract: 'Klezmer is an instrumental musical tradition of the Ashkenazi Jews of Central and Eastern Europe.'
 
-abstract_short: 'Klezmer is an instrumental musical tradition of the Ashkenazi Jews of Central and Eastern Europe.'
+abstract_short: 'Instrumental musical tradition of the Ashkenazi Jews of Central and Eastern Europe.'
 
 # Is this a selected publication? (true/false)
 featured: true

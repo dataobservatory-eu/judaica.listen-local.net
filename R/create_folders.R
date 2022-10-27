@@ -42,4 +42,4 @@ z <- llj_persons[7,]
 z$youtube_channel_url
 
 
-cat(as.yaml(as.list(litvak_people[5,]), indent = 3))
+cat(as.yaml(as.list(jewish_liturgical_people[7,]), indent = 3))

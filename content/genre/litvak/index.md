@@ -13,7 +13,7 @@ publication_types: ["0"]
 # Abstract and optional shortened version.
 abstract: 'We define Litvak music as the traditional folk music of Litvaks, or Jews with roots in the territory of the former Grand Duchy of Lithuania.'
 
-abstract_short: 'We define Litvak music as the traditional folk music of Litvaks, or Jews with roots in the territory of the former Grand Duchy of Lithuania '
+abstract_short: 'The traditional folk music of Litvaks in the territory of the former Grand Duchy of Lithuania.'
 
 # Is this a selected publication? (true/false)
 featured: true

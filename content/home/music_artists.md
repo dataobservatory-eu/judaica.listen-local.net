@@ -10,7 +10,7 @@ headless: true
 weight: 11
 
 title: Music artists
-subtitle: ''
+subtitle: 
 
 content:
   # Page type to display. E.g. project.

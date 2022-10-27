@@ -1,16 +1,11 @@
 ---
-title: Publications
-cms_exclude: true
+title: Music Works and Recordings
 
-# View.
-#   1: List
-#   2: Compact
-#   3: Card
-#   4: Citation
-view: 4
+# Listing view
+view: 
 
-# Optional header image (relative to `static/media/` folder).
-header:
+# Optional banner image (relative to `assets/media/` folder).
+banner:
   caption: ''
   image: ''
 ---
