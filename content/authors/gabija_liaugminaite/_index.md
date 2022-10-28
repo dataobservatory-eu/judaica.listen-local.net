@@ -72,4 +72,4 @@ user_groups:
   - Creators
 ---
 
-Gabija is a trainee at [Reprex](https://reprex.nl/) and she is working on our [Listen Local Lithuania](https://reprex.nl/project/listen-local) project. Her role is to make sure that autonomous music systems, streaming platforms, and other applications receive information about Lithuanian music and Lithuanian creators without error and data bias to give them a fair chance in global streaming.
+Gabija is a junior cultural economist working on the service development of the [Digital Music Observatory](https://music.dataobservatory.eu/) and the `Listen Local` application family, and the conceptual design of the [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/). She also plays a curatorial and service design role in Listen Local Lithuania, a project of [MXF Muzikos eksporto fondas](https://music.dataobservatory.eu/authors/mxf/) that uses Reprex’s open-source solutions.
