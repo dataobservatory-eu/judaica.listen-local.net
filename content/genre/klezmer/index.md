@@ -33,7 +33,8 @@ links:
   - icon_pack: fab
     icon: spotify
     name: Listen
-    url: 'https://open.spotify.com/playlist/3QyVmfHUatn9SHTo8HZvE4'
+    url: 'https://open.spotify.com/embed/playlist/1o39kw3VCuVyqgJkyVJrUH'
+    
 
 show_date: false
     
@@ -70,7 +71,8 @@ image:
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Smart"
 ---
+We define `klezmer` as an instrumental musical tradition of the Ashkenazi Jews of Central and Eastern Europe. The essential elements of the tradition include dance tunes, ritual melodies, and virtuosic improvisations played for listening; these would have been played at weddings and other social functions. Our Listen Local Judaica Music contains recorded fixations (recordings) or audiovisual recordings of such music. Our Listen Local Judaica Music Artist contains the bibliographical, musicological, and rights management data of performers of klezmer music, including dancers, or composers who re-arrange klezmer as new authors. 
 
-We define klezmer as an instrumental musical tradition of the Ashkenazi Jews of Central and Eastern Europe. The essential elements of the tradition include dance tunes, ritual melodies, and virtuosic improvisations played for listening; these would have been played at weddings and other social functions. Our Listen Local Judaica Music contains recorded fixations (recordings) or audiovisual recordings of such music. Our Listen Local Judaica Music Artist contains the bibliographical, musicological, and rights management data of performers of klezmer music, including dancers, or composers who re-arrange klezmer as new authors. 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1o39kw3VCuVyqgJkyVJrUH?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qPn8tblHy8hDvtxBJj45a?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+The playlist contains the recordings of the klezmer music works in our collection. We will keep expanding the playlist and make the music available on other platforms, too.
