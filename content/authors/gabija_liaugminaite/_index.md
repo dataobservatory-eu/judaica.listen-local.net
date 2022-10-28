@@ -11,13 +11,19 @@ superuser: false
 
 # Role/position
 # change this to your role
-role: Data curator
+role: Digital service design
 
 # Organizations/Affiliations
 # you can add multiple -name: Affiliation name and url: myurl pairs.
 organizations:
   - name: Reprex
     url: "https://reprex.nl/"
+  - name: MXF Muzikos eksporto fondas
+    url: "https://music.dataobservatory.eu/authors/mxf/"
+  - name: Digital Music Observatory
+    url: "https://music.dataobservatory.eu/"
+  - name: CCSI Data Observatory
+    url: "https://ccsi.dataobservatory.eu/"
 
 # Uncomment and add as many as you like
 #  - name: New affiliation
@@ -72,4 +78,4 @@ user_groups:
   - Creators
 ---
 
-Gabija is a junior cultural economist working on the service development of the [Digital Music Observatory](https://music.dataobservatory.eu/) and the `Listen Local` application family, and the conceptual design of the [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/). She also plays a curatorial and service design role in Listen Local Lithuania, a project of [MXF Muzikos eksporto fondas](https://music.dataobservatory.eu/authors/mxf/) that uses Reprex’s open-source solutions.
+Gabija is a junior cultural economist at [Reprex](https://reprex.nl/) working on the service development of the [Digital Music Observatory](https://music.dataobservatory.eu/) and the `Listen Local` application family, and the conceptual design of the [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/). She also plays a curatorial and service design role in `Listen Local Lithuania`, a project of MXF Muzikos eksporto fondas that uses Reprex’s open-source solutions.
