@@ -24,6 +24,10 @@ links:
     icon_pack: fab
     name: Listen
     url: https://open.spotify.com/artist/7yaBUcdjmqPP2vIv6F5bFD
+  - icon: deezer
+    icon_pack: fab
+    name: Listen
+    url: https://www.deezer.com/artist/96667
   - icon: youtube
     icon_pack: fab
     name: Watch
@@ -32,6 +36,10 @@ links:
     icon_pack: fab
     name: Read
     url: https://en.wikipedia.org/wiki/Aist%C4%97_Smilgevi%C4%8Di%C5%ABt%C4%97
+  - icon: music
+    icon_pack: fas
+    name: Muziekweb performer ID
+    url: https://www.muziekweb.nl/Link/M00000244850/
   - icon: book
     icon_pack: fas
     name: National Library of Israel ID
@@ -47,8 +55,6 @@ url_slides: ""
 url_video: ""
 
 # Slides (optional).
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 ---
 

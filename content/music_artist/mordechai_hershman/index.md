@@ -22,6 +22,10 @@ links:
     icon_pack: fab
     name: Listen
     url: https://open.spotify.com/artist/70jWxnYjym0MhEnMLK6lxc
+  - icon: deezer
+    icon_pack: fab
+    name: Listen
+    url: https://www.deezer.com/en/artist/124718
   - icon: apple
     icon_pack: fab
     name: Listen
@@ -34,6 +38,10 @@ links:
     icon_pack: fab
     name: Read
     url: https://en.wikipedia.org/wiki/Mordechai_Hershman
+  - icon: brain
+    icon_pack: fas
+    name: MusicBrainz
+    url: https://musicbrainz.org/artist/26316deb-3ce1-46ca-90ea-7a6c8000b784  
   - icon: fingerprint
     icon_pack: fas
     name: GND
@@ -42,7 +50,10 @@ links:
     icon_pack: fas
     name: VIAF
     url: http://viaf.org/viaf/11516124
-    
+  - icon: database
+    icon_pack: fas
+    name: WikiData
+    url: https://www.wikidata.org/wiki/Q2903892   
 
 url_code: ""
 url_pdf: ""
