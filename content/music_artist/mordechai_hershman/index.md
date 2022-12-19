@@ -59,4 +59,10 @@ slides: ""
 
 Mordecai Hershman (1888 – January 30, 1940) was a Ukrainian-born American Jewish cantor ("chazzan") and singer.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/artist/70jWxnYjym0MhEnMLK6lxc" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+His body of work can be safely considered part of the musical heritage. However, much of it is not out of commerce.  Therefore, the very same works can be found in heritage collections and non-heritage collections. 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/70jWxnYjym0MhEnMLK6lxc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+The commercial rights management system and the heritage system shares plenty of very similar problem related to commercially and non-commercially digitized content. In commercial platforms, such as Spotify or YouTube, Mordechai Hershman’s works are mainly recommended by AI algorithms for new audiences.  
+
+If Mordechai Hershman’s biographical data, the music works musicological data, or the lyrics are not available in machine-readable formats, then Mordechai Hershman remains invisible.  This is the same problem that heritage collections face, even if their goal is often to serve musicologists to find connections in Mordechai Hershman’s body of work with other literary or musical works.
