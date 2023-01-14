@@ -13,20 +13,41 @@ main:
   - name: Contributors
     url: contributors
     weight: 30
-  - name: Musical artists
-    url: /music_artist/
+  - name: Persons & Groups
+    url:
     weight: 50
+    identifier: persons
+  - name: Musicians
+    url: /musician/
+    weight: 51
+    parent: persons
+  - name: Music groups
+    url: /music_group/
+    weight: 52
+    parent: persons
+  - name: Solo projects
+    url: /solo_project/
+    weight: 53
+    parent: persons
+  - name: Musicologists
+    url: /musicologist/
+    weight: 54
+    parent: persons
   - name: Music
-    url: /music_work/
+    url: ""
     identifier: Music
     weight: 55
   - name: Genres, Scenes, Traditions
     url: /genre/
     weight: 56
     parent: Music
-  - name: Music Works & Recordings
-    url: /music_work/
+  - name: Recordings
+    url: /recording/
     weight: 56
+    parent: Music
+  - name: Music Works
+    url: /music_work/
+    weight: 57
     parent: Music
   - name: Contact & Events
     url: '#contact'
